@@ -1,10 +1,9 @@
 ![sprucetreelogo](https://github.com/tenlevels/spruce/assets/139886575/f248b441-835c-4f2e-b849-cec145b3ffcf)
 
 # spruce: *SD Card Overhaul for Miyoo A30*
+This is a fork of SpruceOS that I made just for fun, tweaking some things to my liking, but I still recommend you to download the original instead.
 
-## DOWNLOAD LATEST VERSION BELOW
-
-  - LINK https://github.com/tenlevels/spruce/releases
+Link to the latest release of the "official" Spruce project: https://github.com/tenlevels/spruce/releases
 
 ## WHAT WAS DONE:
 
@@ -116,16 +115,6 @@ This will retain all your games, saves, and emulator bios files.
 ## Credits/Thanks
 
   - Miyoo stock OS
-  - Retroarch removal from MainUI by Jim Gray
-  - Onion team for the heavy lifting on finding the best cores to use with Miyoo and overall inspiration
-  - DinguxCommander update by BTN/Paradise
-  - Drastic by Steward
-  - Pico-8 wrapper by Ninoh-FOX and Steward
-  - Overlays from Onion & Darkhorse
-  - Testing and encouragement by Hoo
-  - Install guide, testing and support by sundowndersport
-  - Photos, testing and support by supermodio64
-  - Aemiii91 for being my mentor and friend
-  - Russ from RGC - His YouTube channel started it all for me
+  - tenlevels for making Spruce.
 
 THANK YOU TO THE AMAZING MIYOO COMMUNITY!!
